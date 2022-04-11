@@ -1,0 +1,2 @@
+# F HMin, F SMin, VMin, F HMax, F SMax, F VMax, F Erode, F Dilate, B minNeighbors, B flags, B minSize, B maxSize, Brightness, Contrast, Saturation, WB Temp Auto, WB Temp, Sharpness, Exp Auto, Exp Abs, Exp Auto Priority, Focus Auto, L HMin, L SMin,L  VMin, L HMax, L SMax, L VMax, L Erode, L Dilate, LineValue, G minNeighbors, G flags, G minSize, G maxSize
+0,0,0,255,100,120,2,35,3,8,16,169,128,128,128,0,5000,128,1,312,0,0,155,0,0,255,255,255,0,0,130,4,8,16,144
